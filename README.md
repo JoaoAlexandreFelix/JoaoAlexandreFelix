@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, é muito bom ver você por aqui!  😁
+## Bem-vindo(a) ao meu perfil, é muito bom ver você por aqui!
 
  <div>
    <a href="https://github.com/JoaoAlexandreFelix">
